@@ -1,5 +1,5 @@
-# UCSDUnfoldingMaps
-UCSD Unfolding Maps Java/Maven
+# UCSDUnfoldingMapsMaven
+UCSD Unfolding Maps Project - Maven Bootstrap
 
 A modified version of the official UCSD provided zip on Coursera. The source is unchanged, 
 however the project has been 'Maven-fied'! - so there is an additional pom.xml file. 
@@ -18,7 +18,7 @@ install the following jars from the /externaljars folder into your local maven r
 - Unfolding.jar (unfoldingMaps version 0.9.6)
 - json4processing (unfoldingMaps version 0.9.6)
 
-MD5 hash values for the files in /externaljars folder: 
+MD5 checksum values for the files in /externaljars folder: 
 
 MD5 (Unfolding.jar) = adf9454823d1b656027deccca027e960
 
