@@ -21,7 +21,9 @@ install the following jars from the /externaljars folder into your local maven r
 MD5 hash values for the files in /externaljars folder: 
 
 MD5 (Unfolding.jar) = adf9454823d1b656027deccca027e960
+
 MD5 (Unfolding_for_processing_0.9.6.zip) = 5c0d5bdeb1c61535e7fa624bc79388ea
+
 MD5 (json4processing.jar) = 3f097ab4458261482518ffa2229ca857
 
 you can alternatively download and extract from the unfoldingmaps.org site directly:
